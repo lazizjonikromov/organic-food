@@ -6,10 +6,13 @@
 
 ## Features
 
-- React 
-- Redux Toolkit
+- Cart
+- Checkout
+- Search Filter
+- Categories
 
 ## Technologies 
 
 - [React JS](https://reactjs.org)
 - [Redux Toolkit](https://react-redux.js.org)
+- [Tailwind css](https://tailwindcss.com/)
